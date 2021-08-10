@@ -1,4 +1,4 @@
-# BMS-CLIP Implementation 
+# CLIP Implementation on BMS dataset 
 
 ### Authors: Juan Sebastián Gómez & Juan Velásquez Medina
 
