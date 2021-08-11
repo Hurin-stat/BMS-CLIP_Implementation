@@ -8,7 +8,7 @@ Based on the article of [towards data science](https://towardsdatascience.com/si
 @misc{ramesh2021zeroshot,
     title   = {Simple Implementation of OpenAI CLIP model: A Tutorial}, 
     author  = {Moein Shariatnia},
-    year    = {2021},
-    eprint  = {2102.12092}
+    year    = {2021}
 }
 ```
+
