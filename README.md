@@ -6,11 +6,9 @@ Based on the article of [towards data science](https://towardsdatascience.com/si
 
 ```bibtex
 @misc{ramesh2021zeroshot,
-    title   = {Zero-Shot Text-to-Image Generation}, 
-    author  = {Aditya Ramesh and Mikhail Pavlov and Gabriel Goh and Scott Gray and Chelsea Voss and Alec Radford and Mark Chen and Ilya Sutskever},
+    title   = {Simple Implementation of OpenAI CLIP model: A Tutorial}, 
+    author  = {Moein Shariatnia},
     year    = {2021},
-    eprint  = {2102.12092},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CV}
+    eprint  = {2102.12092}
 }
 ```
